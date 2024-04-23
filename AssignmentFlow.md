@@ -1,6 +1,6 @@
-Project Setup:
+Project Setup:          
     Created a Maven project for API creation.
-Data Model (JavaBean - Doctors.java):
+Data Model (JavaBean - Doctors.java):    
     Defined a JavaBean named Doctors.
     Declared attributes along with getter and setter methods.
 API Controller (MyController.java):
