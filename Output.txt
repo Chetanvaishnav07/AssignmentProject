@@ -1,14 +1,18 @@
-Doctor ID: 1
-Doctor Name: Dr. Sarode
-Max Patients Per Day: 3
-
-Doctor ID: 2
-Doctor Name: Dr. Shukla
-Max Patients Per Day: 4
-
-Appointment booked successfully!
-Appointment ID: 1
-Doctor: Dr. Sarode
-Date: 2023-03-10
-Time: 12:00
-
+[
+    {
+        "id": 1,
+        "name": "Dev nagar",
+        "location": "Indore",
+        "time": "Evening",
+        "appointedPatients": "rahul,dhruv",
+        "maxappointments": 5
+    },
+    {
+        "id": 1,
+        "name": "Devang runwal",
+        "location": "Indore",
+        "time": "Evening",
+        "appointedPatients": "Ankit,Aman",
+        "maxappointments": 5
+    }
+]
